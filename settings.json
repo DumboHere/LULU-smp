@@ -32,7 +32,7 @@
       "repeat-delay": 5,
       "messages": [
         "/register 2255",
-        "/login 2255",
+        "/login 2255"
       ]
     },
     "chat-log": true,
