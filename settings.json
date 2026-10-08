@@ -29,11 +29,10 @@
     "chat-messages": {
       "enabled": true,
       "repeat": false,
-      "repeat-delay": 5,
+      "repeat-delay": 0,
       "messages": [
         "/register 2255",
         "/login 2255",
-        "https://discord.gg/qZBHb5BFG9"
       ]
     },
     "chat-log": true,
